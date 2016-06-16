@@ -1,0 +1,61 @@
+#page-header {
+
+}
+
+#page-title {
+
+}
+
+.article-section {
+
+}
+
+.article-section:first-child {
+	font-weight: bold;
+}
+
+.article-section:last-child {
+	font-weight: bold;
+	font-style: italic;
+}
+
+#keypress-input {
+
+}
+
+#output-target {
+	margin: 10px 0;
+
+}
+
+#guinea-pig {
+
+}
+
+#add-color,
+#make-large,
+#add-border,
+#add-rounding {
+	display: block;
+}
+
+.add-color-btn {
+	color: cyan;
+}
+
+.make-large-btn {
+	font-size: 3em;
+}
+
+.add-border-btn {
+	border: 2px dotted black;
+}
+
+.add-rounding-btn {
+	border: 2px dotted black;
+	border-radius: 30%;
+}
+
+.hidden {
+	display: none;
+}
